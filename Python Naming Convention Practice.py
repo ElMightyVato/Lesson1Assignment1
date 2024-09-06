@@ -2,6 +2,6 @@
 # several variable and constant names that don't follow the Python naming convention.
 #  Your task is to correct them:
 PI = 3.14
-user_age = 25
-UserLocation = "New York"
+User_age = 25
+USERLOCATION = "New York"
 MAXLIMIT = 1000
